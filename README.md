@@ -6,6 +6,8 @@ cognition spatiale, la mémoire visuelle et l’optimisation de l’interface, a
 utilisateur.
 
 2. Problématiques
+
+   
 • Concevoir une scène interactive en réalité virtuelle autour du tri des déchets.
 • Implémenter des interactions 3D naturelles (sélection, déplacement, dépôt) adaptées à la RV.
 • Intégrer des aides à la cognition spatiale et à la mémoire visuelle (guidage, repères, feedback).
