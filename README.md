@@ -1,3 +1,5 @@
+1. Contexte
+
 Ce projet a pour objectif de concevoir une application immersive en réalité virtuelle, centrée sur le tri
 des déchets, à l’aide du casque Meta Quest et de Unity 3D. Il permet d’aborder les principes de
 conception d’interfaces homme-machine (IHM) en environnement 3D. L’accent est mis sur l’interaction,
